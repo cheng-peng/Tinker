@@ -4,4 +4,4 @@
 
 # 引用
 
-<img src='https://github.com/cheng-peng/Tinker/blob/master/img/1.png' height='500' width='300'/>
+<img src='https://github.com/cheng-peng/Tinker/blob/master/img/1.png'/>
